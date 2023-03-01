@@ -1,0 +1,26 @@
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+  }
+  .container1 {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #2c3e50;
+  }
+  .name {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 18px;
+  }
+  .block {
+    margin: 10px;
+  }
+  
